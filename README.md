@@ -1,0 +1,4 @@
+starting-git
+============
+
+Demo project.
